@@ -17,7 +17,7 @@ function resolveModule(moduleName) {
   if (moduleFullPath) {
     return moduleFullPath;
   }
-  console.log(`[midway-bin] Not found framework/module ${moduleName} and skip.`);
+  console.log(`[midway-bin] Not found framework or module "${moduleName}" and skip.`);
   return '';
 }
 
