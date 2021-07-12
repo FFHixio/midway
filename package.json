@@ -22,7 +22,7 @@
     "tslint": "^5.17.0",
     "tslint-no-unused-expression-chai": "^0.1.4",
     "typescript": "^3.5.1",
-    "vuepress": "^0.14.11"
+    "vuepress": "^1.0.0"
   },
   "scripts": {
     "autod": "lerna run autod",
