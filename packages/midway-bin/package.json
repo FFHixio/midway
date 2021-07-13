@@ -28,7 +28,7 @@
     "globby": "^10.0.1",
     "jest-environment-node": "^24.9.0",
     "mz-modules": "^2.1.0",
-    "typedoc": "^0.20.7"
+    "typedoc": "^0.21.0"
   },
   "devDependencies": {
     "co-mocha": "^1.2.2",
